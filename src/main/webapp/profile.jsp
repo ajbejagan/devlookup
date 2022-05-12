@@ -9,10 +9,11 @@
   <title>devLookUp | Profile</title>
 </head>
 <body>
+    <!-- TODO: finish profile page  -->
   <h1>Profile</h1>
   name, age, bio
 
-  <!-- if admin render below -->
+  <!-- TODO: if admin render below -->
   <div>
       <h1>Admin</h1>
       <p></p>
